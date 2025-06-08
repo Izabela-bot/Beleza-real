@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Beleza Real e Empoderamento Feminino</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background: #fff8f0;
+      color: #4a4a4a;
+      margin: 0;
+      padding: 0;
+    }
+    header {
+      background-color: #ff6f91;
+      color: white;
+      padding: 20px 10px;
+      text-align: center;
+      font-size: 2rem;
+      font-weight: bold;
+    }
+    nav {
+      background-color: #ff9a9e;
+      padding: 10px 0;
+      text-align: center;
+    }
+    nav a {
+      color: white;
+      text-decoration: none;
+      margin: 0 15px;
+      font-weight: 600;
+    }
+    nav a:hover {
+      text-decoration: underline;
+    }
+    main {
+      max-width: 900px;
+      margin: 30px auto;
+      padding: 0 20px;
+    }
+    section {
+      margin-bottom: 40px;
+    }
+    h2 {
+      color: #ff6f91;
+      margin-bottom: 15px;
+      border-bottom: 2px solid #ff6f91;
+      padding-bottom: 5px;
+    }
+    p {
+      line-height: 1.6;
+      font-size: 1.1rem;
+    }
+    .quote {
+      font-style: italic;
+      text-align: center;
+      margin: 40px 0;
+      font-size: 1.3rem;
+      color: #d94f70;
+    }
+    footer {
+      text-align: center;
+      padding: 15px 10px;
+      background-color: #ff6f91;
+      color: white;
+      font-size: 0.9rem;
+    }
+  </style>
+</head>
+<body>
+
+<header>Beleza Real & Empoderamento Feminino</header>
+
+<nav>
+  <a href="#autoestima">Autoestima</a>
+  <a href="#empoderamento">Empoderamento</a>
+  <a href="#beleza-natural">Beleza Natural</a>
+</nav>
+
+<main>
+  <section id="autoestima">
+    <h2>Autoestima</h2>
+    <p>
+      Cultivar a autoestima é reconhecer o valor único que cada mulher possui. Aceitar suas qualidades e imperfeições é o primeiro passo para uma vida mais plena e feliz.
+    </p>
+  </section>
+
+  <section id="empoderamento">
+    <h2>Empoderamento Feminino</h2>
+    <p>
+      O empoderamento é sobre se reconhecer como protagonista da própria história, lutando por seus direitos, liberdade e respeito. Juntas somos mais fortes.
+    </p>
+  </section>
+
+  <section id="beleza-natural">
+    <h2>Beleza Natural & Real</h2>
+    <p>
+      A verdadeira beleza está na autenticidade, na confiança e na simplicidade. Celebrar a beleza natural é um ato de amor-próprio e liberdade.
+    </p>
+  </section>
+
+  <div class="quote">
+    "Seja você mesma; todo mundo já existe." – Oscar Wilde
+  </div>
+</main>
+
+<footer>
+  &copy; 2025 Beleza Real & Empoderamento Feminino
+</footer>
+
+</body>
+</html>
